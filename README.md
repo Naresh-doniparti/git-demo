@@ -3,9 +3,6 @@
 
 This is the first file in this repo.
 
-##Ipsum Below
+##Website contents
 
-Tatooed blah blah ...
-
-
-SOme more ipsum
+index.html
